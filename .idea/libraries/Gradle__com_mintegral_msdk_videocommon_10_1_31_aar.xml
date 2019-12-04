@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mintegral.msdk:videocommon:10.1.31@aar">
+    <CLASSES>
+      <root url="file://E:/androidstudio/.gradle/caches/transforms-2/files-2.1/f505cabdbcbe7bf6abdb5519e322dac5/res" />
+      <root url="jar://E:/androidstudio/.gradle/caches/transforms-2/files-2.1/f505cabdbcbe7bf6abdb5519e322dac5/jars/classes.jar!/" />
+      <root url="jar://E:/androidstudio/.gradle/caches/transforms-2/files-2.1/f505cabdbcbe7bf6abdb5519e322dac5/jars/libs/classes-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/androidstudio/.gradle/caches/modules-2/files-2.1/com.mintegral.msdk/videocommon/10.1.31/bcfd4e465227afd340e14c772260f4d0c8dcdc8f/videocommon-10.1.31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

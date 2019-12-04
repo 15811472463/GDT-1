@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mintegral.msdk:playercommon:10.1.31@aar">
+    <CLASSES>
+      <root url="jar://E:/androidstudio/.gradle/caches/transforms-2/files-2.1/6d8b67fe83f60d64a14cdf14a129c45e/jars/classes.jar!/" />
+      <root url="file://E:/androidstudio/.gradle/caches/transforms-2/files-2.1/6d8b67fe83f60d64a14cdf14a129c45e/res" />
+      <root url="jar://E:/androidstudio/.gradle/caches/transforms-2/files-2.1/6d8b67fe83f60d64a14cdf14a129c45e/jars/libs/classes-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/androidstudio/.gradle/caches/modules-2/files-2.1/com.mintegral.msdk/playercommon/10.1.31/bcfd4e465227afd340e14c772260f4d0c8dcdc8f/playercommon-10.1.31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

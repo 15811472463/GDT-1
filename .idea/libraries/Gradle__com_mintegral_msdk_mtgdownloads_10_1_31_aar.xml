@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mintegral.msdk:mtgdownloads:10.1.31@aar">
+    <CLASSES>
+      <root url="jar://E:/androidstudio/.gradle/caches/transforms-2/files-2.1/ba665d6844d695164365dbce1cc9d47c/jars/classes.jar!/" />
+      <root url="file://E:/androidstudio/.gradle/caches/transforms-2/files-2.1/ba665d6844d695164365dbce1cc9d47c/res" />
+      <root url="jar://E:/androidstudio/.gradle/caches/transforms-2/files-2.1/ba665d6844d695164365dbce1cc9d47c/jars/libs/classes-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/androidstudio/.gradle/caches/modules-2/files-2.1/com.mintegral.msdk/mtgdownloads/10.1.31/877c59ef4cbe6dc572d6930bef8e324dc1b5f7c0/mtgdownloads-10.1.31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

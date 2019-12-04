@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.mintegral.msdk:reward:10.1.31@aar">
+    <CLASSES>
+      <root url="file://E:/androidstudio/.gradle/caches/transforms-2/files-2.1/c8273d59ed1a7d52de982ef8c4b6761a/res" />
+      <root url="jar://E:/androidstudio/.gradle/caches/transforms-2/files-2.1/c8273d59ed1a7d52de982ef8c4b6761a/jars/libs/classes-2.jar!/" />
+      <root url="jar://E:/androidstudio/.gradle/caches/transforms-2/files-2.1/c8273d59ed1a7d52de982ef8c4b6761a/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/androidstudio/.gradle/caches/modules-2/files-2.1/com.mintegral.msdk/reward/10.1.31/bcfd4e465227afd340e14c772260f4d0c8dcdc8f/reward-10.1.31-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
